@@ -1,5 +1,7 @@
 # Jenkins Installation Script
 
+curl -fsSL https://raw.githubusercontent.com/shivaji67/Jenkins-Installation-Script-Ubuntu/main/install_jenkins.sh | bash
+
 This repository contains an automated script to install Jenkins on Ubuntu/Debian systems.
 
 ## Prerequisites
